@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Captura de pantalla 2024-02-12 190514](https://github.com/user-attachments/assets/b79250cc-84d4-4101-b66d-1920e7352c6d)
 
 <!--
 **RenzomanuelAR/RenzomanuelAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
